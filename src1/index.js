@@ -8,7 +8,7 @@ const firebase = require('firebase');
 require('firebase/firebase');
  
 firebase.initializeApp({
-    apiKey: "AIzaSyCMs7Ekjhqvz9afQ8IQCzi5gd79PiVoi2Q",
+    apiKey: "",
     authDomain: "noter-ffdfa.firebaseapp.com",
     databaseURL: "https://noter-ffdfa.firebaseio.com",
     projectId: "noter-ffdfa",
