@@ -12,6 +12,7 @@ class SidebarComponent extends React.Component {
         addingNote: false,
         title: null
       };
+        
     }
     render() {
   
